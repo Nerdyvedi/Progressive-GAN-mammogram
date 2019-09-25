@@ -30,7 +30,7 @@ __[step 2.] Prepare environment using virtualenv__
 __[step 3.] Run training__      
 + edit `config.py` to change parameters. (don't forget to change path to training images)
 + specify which gpu devices to be used, and change "n_gpu" option in `config.py` to support Multi-GPU training.
-+ run and enjoy!  
++ run it.
 
 ~~~~
   (example)

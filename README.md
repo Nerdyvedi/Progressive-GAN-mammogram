@@ -1,5 +1,7 @@
 # Progressive-GAN-mammogram
-Implementing Progressive GAN to generate mammogram images
+Implementing Progressive GAN to generate mammogram images. Any deep learning model requires a signinficant amount of dataset. The publicly available dataset for mammogram images is not enough to train a deep learning model. This is a pytorch implementation of progressive GAN to generate mammogram images.
+
+The dataset used is obtained from [[here]](https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM)
 
 ## How to Use
 __[step 1.] Prepare dataset__
@@ -45,5 +47,11 @@ __[step 4.] Generate fake images using linear interpolation__
 ~~~
 CUDA_VISIBLE_DEVICES=0 python generate_interpolated.py
 ~~~
+
+## Experimental Results
+
+
+
+
   
  

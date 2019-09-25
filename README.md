@@ -49,6 +49,9 @@ CUDA_VISIBLE_DEVICES=0 python generate_interpolated.py
 ~~~
 
 ## Experimental Results
+<img src="https://github.com/Nerdyvedi/Progressive-GAN-mammogram/blob/master/result01.png" width="430" height="430">  
+<img src="https://github.com/Nerdyvedi/Progressive-GAN-mammogram/blob/master/result02.png" width="430" height="430">  
+<img src="https://github.com/Nerdyvedi/Progressive-GAN-mammogram/blob/master/result03.png" width="430" height="430">  
 
 
 
